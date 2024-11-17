@@ -3,7 +3,7 @@ The script `download_cds.sh` demonstrates how we download the CDS for the Basic 
 
 ---
 
-## Dataset Preparation  
+## Gene-Taxa Dataset Preparation  
 Using the following notebook, we demonstrate how we filter the data and select the genes:
 
 - `dataset_creation.ipynb`
