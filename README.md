@@ -1,6 +1,7 @@
 # Gene-Taxa Downstream Analysis
 
-This repository contains a series of scripts of methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**.
+This repository contains a series of scripts of methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please check the notebook for details. 
+
 
 ##  Steps
 
