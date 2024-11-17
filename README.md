@@ -10,7 +10,7 @@ Using the following notebook, we demonstrate how we filter the data and select t
 
 
 
-## Comparative Tools to Scorpio on Gene-Taxa Datasets  
+## Comparative Benchmarks to Scorpio on Gene-Taxa Datasets  
 **`evaluation_notebook.ipynb`**  
 This notebook contains a series of scripts and methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please refer to the notebook for more details.
 
