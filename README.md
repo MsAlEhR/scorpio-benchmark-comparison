@@ -1,15 +1,21 @@
-# Download the cds form gneome of basic  
+## Download the CDS from Genome of Basic  
+The script `download_cds.sh` demonstrates how we download the CDS for the Basic genome of 4k genomes.
+
+---
+
+## Dataset Preparation  
+Using the following notebook, we demonstrate how we filter the data and select the genes:
+
+- `dataset_creation.ipynb`
 
 
-# Dataset Preparation and how we select 
-dataset_creation.ipynb
 
-# Comparative tools to Sccopio on Gene-taxa datasets 
-evaluation_notebook.ipynb
-This notbooks: contains a series of scripts of methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please check the notebook for details. 
+## Comparative Tools to Scorpio on Gene-Taxa Datasets  
+**`evaluation_notebook.ipynb`**  
+This notebook contains a series of scripts and methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please refer to the notebook for more details.
 
 
-##  Steps
+
 
 ### Data Preparation
 - Download gene-taxa datasets from Zenodo.
