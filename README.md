@@ -1,5 +1,5 @@
 ## Download the CDS from the Basic Dataset 
-The script `download_cds.sh` demonstrates how we download the CDS for the Basic Dataset with 4k genomes.
+The script `download_cds.sh` demonstrates how we download the CDS for the Basic Genome Dataset with 4k genomes.
 
 ---
 
@@ -10,7 +10,7 @@ Using the following notebook, we demonstrate how we filter the data and select t
 
 
 
-## Comparative Benchmarks to Scorpio on Gene-Taxa Datasets  
+## Comparative Benchmarks to Scorpio on Gene-Taxa Dataset  
 **`evaluation_notebook.ipynb`**  
 This notebook contains a series of scripts and methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please refer to the notebook for more details.
 
