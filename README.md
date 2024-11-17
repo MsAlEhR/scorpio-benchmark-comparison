@@ -1,6 +1,12 @@
-# Gene-Taxa Downstream Analysis
+# Download the cds form gneome of basic  
 
-This repository contains a series of scripts of methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please check the notebook for details. 
+
+# Dataset Preparation and how we select 
+dataset_creation.ipynb
+
+# Comparative tools to Sccopio on Gene-taxa datasets 
+evaluation_notebook.ipynb
+This notbooks: contains a series of scripts of methods that we compare to our **[Scorpio](https://github.com/EESI/Scorpio)** model. The tools used for comparison include **Kraken2**, **MMseqs2**, **BERTax**, and **DeepMicrobes**. Please check the notebook for details. 
 
 
 ##  Steps
