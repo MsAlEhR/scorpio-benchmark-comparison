@@ -18,7 +18,7 @@ This notebook contains a series of scripts and methods that we compare to our **
 
 
 ### Data Preparation
-- Download gene-taxa datasets from Zenodo.
+- Download gene-taxa dataset from Zenodo.
 - Extract and preprocess FASTA files for Kraken2.
 - Modify headers to ensure compatibility with tools like Kraken2.
 
