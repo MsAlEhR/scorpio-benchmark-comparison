@@ -1,5 +1,5 @@
-## Download the CDS from Genome of Basic  
-The script `download_cds.sh` demonstrates how we download the CDS for the Basic genome of 4k genomes.
+## Download the CDS from the Basic Dataset 
+The script `download_cds.sh` demonstrates how we download the CDS for the Basic Dataset with 4k genomes.
 
 ---
 
